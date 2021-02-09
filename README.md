@@ -4,7 +4,7 @@ SSP to CSV file converter
 
 
 This installer was built using NSIS and pyinstaller. There is a possiblity that your system could flag the program as dangerous. If you get this issue please temporarily disable
-your antivirus software/windows denfender.
+your antivirus software/windows defender.
 
 Once installed, click on the shortcut which will open the converter program.
 
